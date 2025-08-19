@@ -416,11 +416,11 @@ export const UserMenu: React.FC = () => {
 
         {/* 设置项 */}
         <div className='space-y-6'>
-          {/* 默认聚合搜索结果 */}
+          {/* 默认橘小猫聚合搜索结果 */}
           <div className='flex items-center justify-between'>
             <div>
               <h4 className='text-sm font-medium text-gray-700 dark:text-gray-300'>
-                默认聚合搜索结果
+                默认橘小猫聚合搜索结果
               </h4>
               <p className='text-xs text-gray-500 dark:text-gray-400 mt-1'>
                 搜索时默认按标题和年份聚合显示结果
